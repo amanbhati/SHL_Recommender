@@ -1,0 +1,22 @@
+{
+  "assessments": [
+    {
+      "name": "Administrative Professional – One Sitting",
+      "url": "https://www.shl.com/solutions/products/product-catalog/",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "duration": "36 minutes",
+      "type": "Business Suite",
+      "job_level": "Entry-level",
+      "question_format": ["Multiple choice", "Multiple choice – adaptive", "Simulation"],
+      "skills_measured": [
+        "Typing Skills",
+        "Conscientiousness",
+        "Composure",
+        "Professional Potential",
+        "Drive for Success",
+        "Customer Focus"
+      ]
+    }
+  ]
+}
